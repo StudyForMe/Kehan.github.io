@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>万年历农历查询,万年历算命,2019年在线万年历,万年历农历查询八字算命</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="Description" content="万年历农历查询,万年历算命,2019年在线万年历,万年历农历查询八字算命.">
+<meta name="Keywords" content="万年历农历查询,万年历算命,2019年在线万年历,万年历农历查询八字算命.">
+<script type="text/javascript" src="https://i.buyiju.com/js/wnl.js"></script>
+
+<SCRIPT language=VBScript>
+<!--
+'===== 算世界时间
+Function TimeAdd(UTC,T)
+   Dim PlusMinus, DST, y,tSave
+   If Left(T,1)="-" Then PlusMinus = -1 Else PlusMinus = 1
+   UTC=Right(UTC,Len(UTC)-5)
+   UTC=Left(UTC,Len(UTC)-4)
+   y = Year(UTC)
+   TimeAdd=DateAdd("n", (Cint(Mid(T,2,2))*60 + Cint(Mid(T,4,2))) * PlusMinus, UTC)
+   '美国日光节约期间: 4月第一个星日00:00 至 10月最後一个星期日00:00
+   If Mid(T,6,1)="*" And DateSerial(y,4,(9 - Weekday(DateSerial(y,4,1)) mod 7) ) <= TimeAdd And DateSerial(y,10,31 - Weekday(DateSerial(y,10,31))) >= TimeAdd Then
+      TimeAdd=CStr(DateAdd("h", 1, TimeAdd)) & "<FONT STYLE='font-size:18pt;font-family:Wingdings; color:red'>R</FONT>"
+   Else
+   End If
+   TimeAdd = CStr(TimeAdd)
+End Function
+'-->
+</SCRIPT>
+
+<STYLE>.todyaColor {
+	BACKGROUND-COLOR: aqua
+}
+</STYLE>
+
+</HEAD>
+<body leftMargin="0" onload="initial()" topMargin="0"><br>
+<center><h1><font size="5" color="#FF0000">卜易居万年历查询</font></h1><br><br> 
+</center>
+
+<SCRIPT language=JavaScript>
+
+lck=0;
+function r(hval)
+{
+if ( lck == 0 )
+{
+document.bgColor=hval;
+}
+}
+</SCRIPT>
+
+<DIV id=detail style="POSITION: absolute"></DIV>
+<CENTER>
+<FORM name=CLD>
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD align=middle vAlign=top><BR><FONT size=2 
+      style="FONT-SIZE: 9pt">本机时间:</FONT><BR><FONT color=#000080 face=Arial 
+      id=Clock size=4 align="center"></FONT>
+      <P><!--时区 *表示自动调整为日光节约时间--><FONT size=2 style="FONT-SIZE: 9pt"><SELECT 
+      name=TZ onchange=changeTZ() style="FONT-SIZE: 9pt"> <OPTION selected 
+        value="-1200 安尼威土克、瓜甲兰">国际换日线<OPTION value="-1100 中途岛、萨摩亚群岛">萨摩亚<OPTION 
+        value="-1000 夏威夷">夏威夷<OPTION value=-0900*阿拉斯加>阿拉斯加<OPTION 
+        value=-0800*太平洋时间(美加)、提亚纳>太平洋<OPTION value=-0700*亚历桑那>美国山区<OPTION 
+        value=-0700*山区时间(美加)>美加山区<OPTION value=-0600*萨克其万(加拿大)>加拿大中部<OPTION 
+        value=-0600*墨西哥市、塔克西卡帕>墨西哥<OPTION value=-0600*中部时间(美加)>美加中部<OPTION 
+        value=-0500*波哥大、里玛>南美洲太平洋<OPTION value=-0500*东部时间(美加)>美加东部<OPTION 
+        value=-0500*印第安纳(东部)>美东<OPTION value=-0400*加拉卡斯、拉帕兹>南美洲西部<OPTION 
+        value="-0400*大西洋时间 加拿大)">大西洋<OPTION value="-0330 新岛(加拿大东岸)">纽芬兰<OPTION 
+        value="-0300 波西尼亚">东南美洲<OPTION value="-0300 布鲁诺斯爱丽斯、乔治城">南美洲东部<OPTION 
+        value=-0200*大西洋中部>大西洋中部<OPTION value=-0100*亚速尔群岛、维德角群岛>亚速尔<OPTION 
+        value="+0000 格林威治时间、都柏林、爱丁堡、伦敦">英国夏令<OPTION 
+        value="+0000 莫洛维亚(赖比瑞亚)、卡萨布兰卡">格林威治标准<OPTION 
+        value="+0100 巴黎、马德里">罗马<OPTION value="+0100 布拉格, 华沙, 布达佩斯">中欧<OPTION 
+        value="+0100 柏林、斯德哥尔摩、罗马、伯恩、布鲁赛尔、维也纳">西欧<OPTION 
+        value="+0200 以色列">以色列<OPTION value=+0200*东欧>东欧<OPTION 
+        value=+0200*开罗>埃及<OPTION value=+0200*雅典、赫尔辛基、伊斯坦堡>GFT<OPTION 
+        value=+0200*赫拉雷、皮托里>南非<OPTION 
+        value=+0300*巴格达、科威特、奈洛比(肯亚)、里雅德(沙乌地)>沙乌地阿拉伯<OPTION 
+        value=+0300*莫斯科、圣彼得堡、贺占、窝瓦格瑞德>俄罗斯<OPTION value=+0330*德黑兰>伊朗<OPTION 
+        value=+0400*阿布达比(东阿拉伯)、莫斯凯、塔布理斯(乔治亚共和)>阿拉伯<OPTION 
+        value=+0430*喀布尔>阿富汗<OPTION value="+0500 伊斯兰马巴德、克洛奇、伊卡特林堡、塔须肯">西亚<OPTION 
+        value="+0530 孟买、加尔各答、马垂斯、新德里、可伦坡">印度<OPTION 
+        value="+0600 阿马提、达卡">中亚<OPTION value="+0700 曼谷、亚加达、胡志明市">曼谷<OPTION 
+        value="+0800 北京、重庆、黑龙江">中国<OPTION value="+0800 台湾、香港、新加坡">台北<OPTION 
+        value="+0900 东京、大阪、扎幌、汉城、亚库兹(东西伯利亚)">东京<OPTION 
+        value="+0930 达尔文">澳洲中部<OPTION value="+1000 布里斯本、墨尔本、席德尼">席德尼<OPTION 
+        value="+1000 霍巴特">塔斯梅尼亚<OPTION value="+1000 关岛、莫斯比港、海  威">西太平洋<OPTION 
+        value=+1100*马哥大、所罗门群岛、新卡伦多尼亚>太平洋中部<OPTION 
+        value="+1200 威灵顿、奥克兰">纽西兰<OPTION 
+      value="+1200 斐济、肯加塔、马歇尔群岛">斐济</OPTION></SELECT>时间 </FONT><BR><FONT 
+      color=#000080 face=Arial id=Clock2 size=4 align="center"></FONT><BR><FONT 
+      style="COLOR: green; FONT-FAMILY: Webdings; FONT-SIZE: 120pt">&ucirc;</FONT><BR><FONT 
+      id=CITY 
+      style="COLOR: blue; FONT-FAMILY: '新细明体'; FONT-SIZE: 9pt; WIDTH: 150px"></FONT></P>
+      <P align=middle vAlign="top"><BUTTON onclick="r('#ffffff')" 
+      style="FONT-SIZE: 9pt">白</BUTTON><BUTTON onclick="r('#ffefef')" 
+      style="FONT-SIZE: 9pt">红</BUTTON><BUTTON onclick="r('#ffffef')" 
+      style="FONT-SIZE: 9pt">黄</BUTTON><BUTTON onclick="r('#efffff')" 
+      style="FONT-SIZE: 9pt">蓝</BUTTON><BUTTON onclick="r('#efffef')" 
+      style="FONT-SIZE: 9pt">绿</BUTTON><BUTTON onclick="r('#e4defe')" 
+      style="FONT-SIZE: 9pt">紫</BUTTON><BUTTON onclick="r('#e4efff')" 
+      style="FONT-SIZE: 9pt">浅</BUTTON><BUTTON onclick="r('#a6d8f1')" 
+      style="FONT-SIZE: 9pt">蓝</BUTTON><BUTTON onclick="r('#669933')" 
+      style="FONT-SIZE: 9pt">青</BUTTON> </P></TD>
+    <TD align=middle>
+      <DIV style="POSITION: absolute; TOP: 30px; Z-INDEX: -1"><FONT id=YMBG 
+      style="COLOR: #f0f0f0; FONT-FAMILY: 'Arial Black'; FONT-SIZE: 90pt">&nbsp;0000<BR>&nbsp;JUN</FONT> 
+      </DIV>
+      <TABLE border=0>
+        <TBODY>
+        <TR>
+          <TD bgColor=#000080 colSpan=7><FONT color=#ffffff size=2 
+            style="FONT-SIZE: 9pt">公历<SELECT name=SY onchange=changeCld() 
+            style="FONT-SIZE: 9pt"> 
+              <SCRIPT language=JavaScript><!--
+            for(i=1900;i<2050;i++) document.write('<option>'+i)
+            //--></SCRIPT>
+            </SELECT>年<SELECT name=SM onchange=changeCld() 
+            style="FONT-SIZE: 9pt"> 
+              <SCRIPT language=JavaScript><!--
+            for(i=1;i<13;i++) document.write('<option>'+i)
+            //--></SCRIPT>
+            </SELECT>月 </FONT><FONT color=yellow face=标楷体 id=GZ 
+            size=3></FONT><BR></TD></TR>
+        <TR align=middle bgColor=#e0e0e0>
+          <TD width=54><FONT color=red>日</FONT></TD>
+          <TD width=54>一</TD>
+          <TD width=54>二</TD>
+          <TD width=54>三</TD>
+          <TD width=54>四</TD>
+          <TD width=54>五</TD>
+          <TD width=54><FONT color=green>六</FONT></TD></TR>
+        <SCRIPT language=JavaScript><!--
+            var gNum
+            for(i=0;i<6;i++) {
+               document.write('<tr align=center>')
+               for(j=0;j<7;j++) {
+                  gNum = i*7+j
+                  document.write('<td id="GD' + gNum +'" onMouseOver="mOvr(' + gNum +')" onMouseOut="mOut()"><font id="SD' + gNum +'" size=5 face="Arial Black"')
+                  if(j == 0) document.write(' color=red')
+                  if(j == 6)
+                     if(i%2==1) document.write(' color=red')
+                        else document.write(' color=green')
+                  document.write(' TITLE=""> </font><br><font id="LD' + gNum + '" size=2 style="font-size:9pt"> </font></td>')
+               }
+               document.write('</tr>')
+            }
+            //--></SCRIPT>
+        </TBODY></TABLE></TD>
+    <TD align=middle vAlign=top width=40><BR><BR><BR><BR><BUTTON 
+      onclick="pushBtm('YU')" style="FONT-SIZE: 9pt">年↑</BUTTON><BR><BUTTON 
+      onclick="pushBtm('YD')" style="FONT-SIZE: 9pt">年↓</BUTTON> 
+      <P><BUTTON onclick="pushBtm('MU')" 
+      style="FONT-SIZE: 9pt">月↑</BUTTON><BR><BUTTON onclick="pushBtm('MD')" 
+      style="FONT-SIZE: 9pt">月↓</BUTTON> 
+      <P><BUTTON onclick="pushBtm('')" style="FONT-SIZE: 9pt">今日</BUTTON> 
+  </P></TD></TR></TBODY></TABLE></FORM>
+<P></P>
+<HR color=green noShade SIZE=1 width="90%">
+说明：天蓝色背景是今天的日期，与您的电脑时间同步。<a href="lhl/jintian/index.html">今天是几月几日查询</a><br><br>
+<FONT face=ARIAL size=2 style="FONT-SIZE: 9pt">阳历中<FONT 
+color=red>红色</FONT>/<FONT color=green>绿色</FONT><FONT color=black>表示节假日，农历中<FONT 
+color=green>绿色</FONT>表示为24节气日，<FONT color=red>红色</FONT>表示为传统节日，<FONT 
+color=blue>蓝色</FONT>则表示为公众节假日<BR></CENTER></FONT></FONT><br><br>
+<center>
+<a href="bazi/index.html">八字算命</a> 
+<a href="cgsm/index.html">称骨算命</a> 
+<a href="yuncheng/index.html">五行八字运程</a> 
+<a href="bgsm/index.html">周易八卦算命</a> 
+<a href="sanshishu/index.html">三世书财运</a> 
+<a href="zhiwen.asp">指纹算命</a> 
+<a href="bazi/hunyin/index.html">八字婚姻算命</a><br><br>
+<a href="lhl/2026-1-30.html"><font size="3" color="#FF0000">老黄历</font></a>　
+</center>
+<div style="display:none">
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?0282956784a69e8d921f9a8ae09c09ad";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+</div>
+</BODY>
+</HTML>
