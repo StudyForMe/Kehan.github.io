@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>打喷嚏测吉凶,喷嚏测吉凶,卜易居占卜大全</title>
-<meta name="keywords" content="打喷嚏测吉凶,喷嚏测吉凶,卜易居占卜大全" />
-<meta name="description" content="打喷嚏测吉凶,喷嚏测吉凶,卜易居占卜大全" />
+<title>打喷嚏测吉凶,喷嚏测吉凶,子玉风水占卜大全</title>
+<meta name="keywords" content="打喷嚏测吉凶,喷嚏测吉凶,子玉风水占卜大全" />
+<meta name="description" content="打喷嚏测吉凶,喷嚏测吉凶,子玉风水占卜大全" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 <link rel="shortcut icon" href="https://i.buyiju.com/favicon.ico" />
@@ -22,7 +22,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -97,7 +97,7 @@
   <div class="content">
     
    <h3>打喷嚏测吉凶</h3>
-   <p><img src="https://i.buyiju.com/img/lanmu/penti.jpg" class="fright p10" width="200" alt="打喷嚏测吉凶" title="打喷嚏测吉凶">	　　打喷嚏是一个常见的生理现象，从医学的角度来讲，通常是鼻腔偶然过敏或深入鼻腔的痒感使人体不由自主地喷发气体而得以释放。但在民间，往往认为打喷嚏预示着某种吉凶。古代的一本占卜书《玉匣记》里，就记载了喷嚏测吉凶的占卜方法，即不同的时辰打喷嚏，就表示什么样的预兆和吉凶，卜易居·<a href="penti.php">打喷嚏测吉凶</a>，就是按照此风水秘本的占卜法制定而成。</p>
+   <p><img src="https://i.buyiju.com/img/lanmu/penti.jpg" class="fright p10" width="200" alt="打喷嚏测吉凶" title="打喷嚏测吉凶">	　　打喷嚏是一个常见的生理现象，从医学的角度来讲，通常是鼻腔偶然过敏或深入鼻腔的痒感使人体不由自主地喷发气体而得以释放。但在民间，往往认为打喷嚏预示着某种吉凶。古代的一本占卜书《玉匣记》里，就记载了喷嚏测吉凶的占卜方法，即不同的时辰打喷嚏，就表示什么样的预兆和吉凶，子玉风水·<a href="penti.php">打喷嚏测吉凶</a>，就是按照此风水秘本的占卜法制定而成。</p>
    <h3>喷嚏测吉凶大全</h3>
 <p>　　凌晨1 点-凌晨3点：有人在牵挂你，希望得到你的帮助。</p> 
 <p>　　凌晨3 点-凌晨5点：异性邀请你共进美餐，好事啊。</p> 
@@ -491,7 +491,7 @@
 <!-- /wrapper -->
 <div class="footer">
 	 <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

@@ -22,7 +22,7 @@
 <div class="wrapper">
 	<div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -80,8 +80,8 @@
 
 <p>本程序不仅可以测试情侣之间的姓名配对缘分指数，也可以测试与朋友、同事、上下级等人际关系的相契合程度，配对测试结果仅供参考。</p>
 <p><img src="https://i.buyiju.com/img/lanmu/xmpd.jpg" class="fright p10" width="200" alt="姓名笔画配对" title="姓名笔画配对">　根据研究，姓名的吉凶运势与姓名的五格数理息息相关，姓名笔画配对，即是根据姓名天格、地格、人格、总格、外格等姓名五格数理关系，并运用阴阳五行相生相克理论，来测试您和对方的姓名缘分指数。</p>
-<p>那么你的姓名五格数理，和对方的姓名五格数理的缘分指数有多高？卜易居的姓名五格配对，即是为您提供这方面的姓名配对。</p>
-<p>恋爱需要缘分，其实做同事、做知己、做兄弟也需要缘分。同胞兄弟，有的如同陌路；工作同事，有的如同兄弟，这种情况都有存在的。本测试除了可以测算情侣之间的姓名配对缘分指数之外，也可以测试其它人际关系的姓名配对缘分，比如你和上司的姓名缘分指数如何？一起工作是否开心？或者和哥们是否投缘？能否合伙发展事业？都可以在卜易居姓名笔画配对来进行查询。</p>
+<p>那么你的姓名五格数理，和对方的姓名五格数理的缘分指数有多高？子玉风水的姓名五格配对，即是为您提供这方面的姓名配对。</p>
+<p>恋爱需要缘分，其实做同事、做知己、做兄弟也需要缘分。同胞兄弟，有的如同陌路；工作同事，有的如同兄弟，这种情况都有存在的。本测试除了可以测算情侣之间的姓名配对缘分指数之外，也可以测试其它人际关系的姓名配对缘分，比如你和上司的姓名缘分指数如何？一起工作是否开心？或者和哥们是否投缘？能否合伙发展事业？都可以在子玉风水姓名笔画配对来进行查询。</p>
 
    <p><div class="yunshi"><a href="https://ds.buyiju.com/vip/hh/?from=xmpd">八字合婚精批： 天生一对还是欢喜冤家？</a></div></p>
   </div><!-- /content -->
@@ -451,7 +451,7 @@
 <!-- /wrapper -->
 <div class="footer">
   <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

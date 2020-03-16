@@ -1,7 +1,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>姓名算命_姓名测试生辰八字算命_卜易居</title>
+<title>姓名算命_姓名测试生辰八字算命_子玉风水</title>
 <meta name="Description" content="姓名算命,姓名测试生辰八字算命" />
 <meta name="Keywords" content="姓名算命,姓名测试生辰八字算命" />
 <meta http-equiv="Cache-Control" content="no-transform" />
@@ -20,7 +20,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -202,7 +202,7 @@
 <div class="content">
 
     <p>本测试结合了周易姓名笔划的三才配置吉凶，预测分析名字中对特定人和事物吉凶与变化趋势，测算结果仅供娱乐，切勿迷信！</p>
-    <p>想了解你的姓名与性格命运有着怎样的关系吗？卜易居姓名算命通过您的姓名分析您的性格、意志、事业、家庭、婚姻、子女、社交、精神、财运、健康、老运等诸多与您命运息息相关的内容。</p>
+    <p>想了解你的姓名与性格命运有着怎样的关系吗？子玉风水姓名算命通过您的姓名分析您的性格、意志、事业、家庭、婚姻、子女、社交、精神、财运、健康、老运等诸多与您命运息息相关的内容。</p>
 
   </div><!-- /content -->
  </div>
@@ -574,7 +574,7 @@
 
 <div class="footer">
  <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

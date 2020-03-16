@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>手机号码缘分配对,手机号测试婚姻,手机号爱情配对,手机号姻缘查询_卜易居</title>
+<title>手机号码缘分配对,手机号测试婚姻,手机号爱情配对,手机号姻缘查询_子玉风水</title>
 <meta name="keywords" content="手机号码缘分配对,手机号测试婚姻,手机号爱情配对,手机号姻缘查询" />
-<meta name="description" content="卜易居算命网为您提供最全面手机号码配对，手机号码爱情测试，希望您能喜欢。" />
+<meta name="description" content="子玉风水为您提供最全面手机号码配对，手机号码爱情测试，希望您能喜欢。" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 <link rel="shortcut icon" href="https://i.buyiju.com/favicon.ico" />
@@ -22,7 +22,7 @@
 <div class="wrapper">
 	<div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -447,7 +447,7 @@
 <!-- /wrapper -->
 <div class="footer">
   <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

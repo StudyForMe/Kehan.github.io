@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html charset=utf-8" />
-<title>星座查询-十二星座日期查询-卜易居算命网</title>
-<meta name="Description" content="十二星座日期查询-卜易居算命网" />
-<meta name="Keywords" content="十二星座日期查询-卜易居算命网" />
+<title>星座查询-十二星座日期查询-子玉风水</title>
+<meta name="Description" content="十二星座日期查询-子玉风水" />
+<meta name="Keywords" content="十二星座日期查询-子玉风水" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 <link rel="shortcut icon" href="https://i.buyiju.com/favicon.ico" />
@@ -22,7 +22,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -80,7 +80,7 @@
 <div class="content">
 
 <p>中国有十二生肖，是以12年为一个轮回。而西方的星相学，则是以12月为一个轮回，但并不是与公历的月份对应，而是12个日期段，如水瓶座的日期为1月20-2月18日。星座查询具体算法的分界点，和中国二十节气里的中气是一致的，其实就是地球在黄道上的12个位置区间。</p>
-<p><u>星座查询以公历日期为准</u>，您可以使用卜易居星座查询程序，或对照下面的12星座日期查询表。</p>
+<p><u>星座查询以公历日期为准</u>，您可以使用子玉风水星座查询程序，或对照下面的12星座日期查询表。</p>
 <p><b>十二星座日期查询表</b></p>
 <p>白羊座：03月21日-04月19日 金牛座：04月20日-05月20日<br>
 双子座：05月21日-06月21日 巨蟹座：06月22日-07月22日<br>
@@ -455,7 +455,7 @@
 <!-- /wrapper -->
 <div class="footer">
   <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>出生星期配对测试 - 出生日爱情缘分配对 -卜易居免费算命大全</title>
-<meta name="Description" content="出生星期配对测试 - 出生日爱情缘分配对 -卜易居免费算命大全" />
-<meta name="Keywords" content="出生星期配对,出生日缘分,卜易居免费算命大全" />
+<title>出生星期配对测试 - 出生日爱情缘分配对 -子玉风水免费算命大全</title>
+<meta name="Description" content="出生星期配对测试 - 出生日爱情缘分配对 -子玉风水免费算命大全" />
+<meta name="Keywords" content="出生星期配对,出生日缘分,子玉风水免费算命大全" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 <link rel="shortcut icon" href="https://i.buyiju.com/favicon.ico" />
@@ -22,7 +22,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -94,7 +94,7 @@
 
 <p>从星期出生看爱情缘分：</p>
 <p><img src="https://i.buyiju.com/img/lanmu/xingqi.jpg" class="fright p10" width="200" alt="出生星期配对" title="出生星期配对">星期的起源：在古代的两河流域，人们把太阳、月亮和金星、木星、水星、火星、土星当作七座天神，叫做七曜，认为它们轮流主宰地上的一天，例如第一天由月亮神主宰，便叫做“月亮日”，第七天由太阳神主宰便叫做“太阳日”，这样每隔七天为一周，就是一个星期。</p> 
-<p>你的出生星期和他的出生星期，到底藏着什么神秘的缘分？『卜易居·出生星期配对』为您全新解析！不知道你的出生星期？请点击查询：<a href="../lhl/2026-1-30.html" target="_blank">公历农历查星期</a></p>
+<p>你的出生星期和他的出生星期，到底藏着什么神秘的缘分？『子玉风水·出生星期配对』为您全新解析！不知道你的出生星期？请点击查询：<a href="../lhl/2026-1-30.html" target="_blank">公历农历查星期</a></p>
      
   </div><!-- /content -->
  </div><!-- /viewbox -->
@@ -463,7 +463,7 @@
 <!-- /wrapper -->
 <div class="footer">
   <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

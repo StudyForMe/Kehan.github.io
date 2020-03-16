@@ -23,7 +23,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -97,7 +97,7 @@
 <p>如何快速推算某年的生肖属相？这里我们详细说明一下。如何根据生肖属相快速判断人的出生年份或年龄大小呢？</p>
 <p>首先大家要熟练记忆各生肖所代表的数字：鼠1，牛2，虎3，兔4，龙5，蛇6，马7，羊8，猴9，鸡10，狗11，猪12.</p>
 <p>然后再告诉你一个常数：1959。知道这个就好办了。比如判断属鸡的，查上面的生肖对应数字表，鸡是10吧，加上常数，即10+1959=1969，那么属鸡的出生年份为1969、1981、1993、2005年，因为生肖是12年一循环，年份隔12递增。知道其出生年份，用今年的年份2020减去出生年份，即可知道对方年龄多大了。</p>
-<p>当然这个计算也比较繁琐，有了<font  color="#ff0000">卜易居生肖年龄计算器</font>，就方便多了，只需输入其生肖，即可自动计算其今年有多大。</p>
+<p>当然这个计算也比较繁琐，有了<font  color="#ff0000">子玉风水生肖年龄计算器</font>，就方便多了，只需输入其生肖，即可自动计算其今年有多大。</p>
 
 <p><strong>相关文章</strong></p>
 <p><a href="sxnl.php?sx=shu">属鼠的人今年多大</a>　<a href="sxnl.php?sx=niu">属牛的人今年多大</a><br>
@@ -475,7 +475,7 @@
 <!-- /wrapper -->
 <div class="footer">
   <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

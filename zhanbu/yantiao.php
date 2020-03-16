@@ -22,7 +22,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -101,7 +101,7 @@
     <p>
 	</p>
    <h3>眼跳测吉凶</h3>
-<p>　　眼跳其实是一种常见的生理现象，我们的左眼皮或右眼皮，经常会不由自主的颤动，“眼跳”的医学症状是，眼睑内的轮匝肌反复收缩。眼皮跳的学名是"眼睑震颤"，偶尔的眼跳是因为休息、睡眠不足，或者是因为贫血、烟酒过度。但在民间，一般认为眼跳预兆某种吉凶，因而有左眼跳财，右眼跳灾的说法，从而产生出眼跳时辰预测吉凶的周易占卜法。所以经常有人问：女人右眼皮跳是什么预兆，或者男人左眼皮跳是什么预兆呢？等等，不一而足。那么您再遇到眼跳的情况，可以在卜易居·<font color="#ff0000">眼跳测吉凶</font>来测试一下哦。</p>
+<p>　　眼跳其实是一种常见的生理现象，我们的左眼皮或右眼皮，经常会不由自主的颤动，“眼跳”的医学症状是，眼睑内的轮匝肌反复收缩。眼皮跳的学名是"眼睑震颤"，偶尔的眼跳是因为休息、睡眠不足，或者是因为贫血、烟酒过度。但在民间，一般认为眼跳预兆某种吉凶，因而有左眼跳财，右眼跳灾的说法，从而产生出眼跳时辰预测吉凶的周易占卜法。所以经常有人问：女人右眼皮跳是什么预兆，或者男人左眼皮跳是什么预兆呢？等等，不一而足。那么您再遇到眼跳的情况，可以在子玉风水·<font color="#ff0000">眼跳测吉凶</font>来测试一下哦。</p>
 <p>　　除了时辰眼跳测吉凶法，民俗中也流传有星期眼跳测吉凶，介绍如下：</p>
    <h3>星期眼跳预测</h3>
 <p>　　<strong>星期一眼跳预兆</strong></p>
@@ -501,7 +501,7 @@
 <!-- /wrapper -->
 <div class="footer">
 	 <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

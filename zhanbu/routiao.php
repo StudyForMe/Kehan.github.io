@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>肉跳测吉凶,肉颤占卜,肉跳是什么预兆,卜易居占卜大全</title>
-<meta name="keywords" content="肉跳测吉凶,肉颤占卜,肉跳是什么预兆,卜易居占卜大全" />
-<meta name="description" content="肉跳测吉凶,肉颤占卜,肉跳是什么预兆,卜易居占卜大全" />
+<title>肉跳测吉凶,肉颤占卜,肉跳是什么预兆,子玉风水占卜大全</title>
+<meta name="keywords" content="肉跳测吉凶,肉颤占卜,肉跳是什么预兆,子玉风水占卜大全" />
+<meta name="description" content="肉跳测吉凶,肉颤占卜,肉跳是什么预兆,子玉风水占卜大全" />
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 <link rel="shortcut icon" href="https://i.buyiju.com/favicon.ico" />
@@ -22,7 +22,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -105,7 +105,7 @@
 <p>　　人体占：面热占、喷嚏占、耳鸣占、耳热占、眼跳占、心惊占、肉颤占。</p> 
 <p>　　动物占：犬吠占、鹊噪占。</p> 
 <p>　　万物占：衣留占、火逸占、釜鸣占。</p> 
-<p>　　卜易居的几种民俗占卜，即本于此，测试结果仅供娱乐参考！</p> 
+<p>　　子玉风水的几种民俗占卜，即本于此，测试结果仅供娱乐参考！</p> 
     	<p><div class="yunshi"><a href="https://ds.buyiju.com/vip/jp/?from=center" rel="nofollow">试试精准生辰八字算命</a></div></p>
   </div><!-- /content -->
  </div><!-- /viewbox -->
@@ -474,7 +474,7 @@
 <!-- /wrapper -->
 <div class="footer">
 	 <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

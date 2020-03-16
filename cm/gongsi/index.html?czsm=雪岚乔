@@ -34,7 +34,7 @@ function submitchecken() {
 <div class="wrapper">
 	<div class="header">
       <div class="title">
-		<a href="../shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -79,7 +79,7 @@ function submitchecken() {
  <div class="place">当前位置: <a href="../shouji/index.html">首页</a> 〉<a href="../index.html">名字测试</a> 〉<a href="index.html">公司名称测吉凶</a></div>
  <div class="viewbox">
   <div class="title"><h2>周易测公司名</h2></div>
-  <div class="info"><small>2017-12-03 来源：www.buyiju.com 卜易居算卦网</small></div>
+  <div class="info"><small>2017-12-03 来源：www.buyiju.com 子玉风水算卦网</small></div>
 <div class="inform">
 	 <form method="post" action="index.html?czsm=雪岚乔" name="buyiju" onsubmit="return submitchecken();">
 　公司名称：<input name="czsm" size="20" class="ipt" value="雪岚乔">
@@ -89,7 +89,7 @@ function submitchecken() {
 </div>
 <div class="content">
 
-<p>卜易居·公司测名，是运用我国古代周易学中五行相生相克的原理，对名字笔画进行五行数理分析，揭示其所蕴含的吉凶信息。</p>
+<p>子玉风水·公司测名，是运用我国古代周易学中五行相生相克的原理，对名字笔画进行五行数理分析，揭示其所蕴含的吉凶信息。</p>
 <p><img src="https://i.buyiju.com/img/lanmu/gongsi.jpg" class="fright p10" width="200" alt="公司名称测吉凶" title="公司名称测吉凶">公司(企业)名称一般由行政区划+字号+行业+组织形式依次组成。如北京（行政区）国美（字号）电器（行业）股份有限公司（组织形式），那么公司主体名称为：国美电器（类似于股票简称）。总而言之，以形成品牌效应的字面作为测算对象。建议以公司名全称、商号、商号+行业（如：奇虎科技）各测算一次，综合衡量其吉凶。</p>
 <p>店铺名称，应以招牌字面（如良品铺子，中南汽修等）为测算对象。本测试只具有相对的吉凶意义，测试结果仅供参考！</p>
 
@@ -460,7 +460,7 @@ function submitchecken() {
 <!-- /wrapper -->
 <div class="footer">
 	 <div class="powered">    
-   <a href="../shouji/index.html">卜易居算命大全</a> <a href="../../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../shouji/index.html">子玉风水算命大全</a> <a href="../../sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>

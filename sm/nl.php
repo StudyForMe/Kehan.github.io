@@ -22,7 +22,7 @@
 <div class="wrapper">
 <div class="header">
       <div class="title">
-		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="卜易居算命网"/></a>
+		<a href="../cm/shouji/index.html"><img src="https://i.buyiju.com/img/logo.png" height="54" width="179" alt="子玉风水"/></a>
       </div>
       <div class="banner"><script type="text/javascript" src="https://a1.99966.cn/xskoyyrbr.js"></script>
      </div>
@@ -204,7 +204,7 @@
 <div class="content">
 
 <p>什么是农历出生日期算命？</p>
-<p><img src="https://i.buyiju.com/img/lanmu/smnl.jpg" class="fright p10" width="200" alt="农历生日算命" title="农历生日算命">农历就是我们平常所说的阴历。卜易居算命大全，主要根据东方八字算命原理和西方占星术。其中，八字算命，是将你的出生日期，不论是公历还是农历，最终都转换成天干地支五行来进行分析，不分析日期的数字玄机。而西方占星术，则是按公历日期测算出你的星盘来占卜。但在中国民间流传的生辰八字算命预测学中，有一种是按你的农历生辰八字的出生日期来进行占卜，比如农历一月出生是什么命，农历初一出生是什么命，而不需要转换成复杂的干支五行或其它命盘来测试。</p>
+<p><img src="https://i.buyiju.com/img/lanmu/smnl.jpg" class="fright p10" width="200" alt="农历生日算命" title="农历生日算命">农历就是我们平常所说的阴历。子玉风水算命大全，主要根据东方八字算命原理和西方占星术。其中，八字算命，是将你的出生日期，不论是公历还是农历，最终都转换成天干地支五行来进行分析，不分析日期的数字玄机。而西方占星术，则是按公历日期测算出你的星盘来占卜。但在中国民间流传的生辰八字算命预测学中，有一种是按你的农历生辰八字的出生日期来进行占卜，比如农历一月出生是什么命，农历初一出生是什么命，而不需要转换成复杂的干支五行或其它命盘来测试。</p>
 <p>这种农历出生日期算命的方法，很直观明了，反映了民间占卜术的特点，但相对于学士派的测命方法，还是稍显简陋。所以本页之农历出生时间与命运的预测，供大家综合阅读参考！</p>
 
   </div><!-- /content -->
@@ -579,7 +579,7 @@
 <!-- //底部模板 -->
 <div class="footer">
      <div class="powered">    
-   <a href="../cm/shouji/index.html">卜易居算命大全</a> <a href="index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="../cm/shouji/index.html">子玉风水算命大全</a> <a href="index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>
