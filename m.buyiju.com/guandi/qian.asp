@@ -46,7 +46,7 @@
  <div class="place">当前位置: <a href="../yuncheng/2019xz/index.html">首页</a> 〉<a href="../chouqian/index.html" >抽签算命</a> 〉<a href="index.html">关帝灵签</a> 〉关帝灵签100枝解签</div>
  <div class="viewbox">
   <div class="title"><h2>关帝灵签100枝详解</h2></div>
-  <div class="info"><small>2017-11-26　来源：www.buyiju.com　卜易居灵签</small></div>  
+  <div class="info"><small>2017-11-26　来源：www.buyiju.com　子玉风水灵签</small></div>  
   <div class="content">
 <p>　<strong>关帝灵签100签详解</strong></p>
 关帝，又称为关公，即三国时的蜀国大将关羽，因其忠义，后世尊关帝圣君，予以供奉。关帝灵签又称为关公灵签，共100枝，为关帝庙求签之用。
@@ -316,7 +316,7 @@
 <div class="footer">
 	<a href="qian.asp#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

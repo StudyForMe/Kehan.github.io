@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>今天是什么节日,最近的节日是什么,中国节日表,传统节日</title>
 <meta name="description" content="今天是什么节日,最近有什么节日,中国节日表,传统节日">
-<meta name="keywords" content="卜易居老黄历为您提供今天节日、距离最近节日的时间。">
+<meta name="keywords" content="子玉风水老黄历为您提供今天节日、距离最近节日的时间。">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <meta name="MobileOptimized" content="320" />
 <meta name="applicable-device" content="mobile">
@@ -40,9 +40,9 @@
  <div class="place"> 当前位置: <a href="../../yuncheng/2019xz/index.html">首页</a> 〉<a href="../2026-1-1.html">老黄历</a> 〉最近的节日是什么</div>
  <div class="viewbox">
   <div class="title"><h2>今天是什么节日</h2></div>
-  <div class="info">2020-3-11　来源：卜易居老黄历</div>
+  <div class="info">2020-3-11　来源：子玉风水老黄历</div>
 	<div class="content">
-		<p class="red center"><strong>卜易居提醒您，还有1天是『植树节』</strong></p>
+		<p class="red center"><strong>子玉风水提醒您，还有1天是『植树节』</strong></p>
 		<h3>中国传统节日</h3>
 		<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
 		<tbody>
@@ -210,7 +210,7 @@
 <div class="footer">
  <a href="jieri.asp#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

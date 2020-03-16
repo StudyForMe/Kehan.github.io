@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>衣留测吉凶,耳朵发热测吉凶,衣留是什么预兆,卜易居占卜大全</title>
-<meta name="keywords" content="衣留测吉凶,耳朵发热测吉凶,衣留是什么预兆,卜易居占卜大全" />
-<meta name="description" content="衣留测吉凶,耳朵发热测吉凶,衣留是什么预兆,卜易居占卜大全" />
+<title>衣留测吉凶,耳朵发热测吉凶,衣留是什么预兆,子玉风水占卜大全</title>
+<meta name="keywords" content="衣留测吉凶,耳朵发热测吉凶,衣留是什么预兆,子玉风水占卜大全" />
+<meta name="description" content="衣留测吉凶,耳朵发热测吉凶,衣留是什么预兆,子玉风水占卜大全" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <meta name="MobileOptimized" content="320" />
 <meta name="applicable-device" content="mobile">
@@ -76,7 +76,7 @@
   <div class="content">
     <p></p>
    <h3>衣留测吉凶</h3>
-<p>所谓衣留，就是我们在行走之时，衣服被周围的物体挂住之意，意思是勾衣留人，故称为衣留。其实我们走路出门，经常出现衣物被刮擦勾住的情况，不必在意。但如果你衣留发生之时，影响了你正常的办事时间和程序，会不会想到这是一个什么样的预兆呢？在古代就提供了一种十二时辰<font color="#ff0000">衣留测吉凶</font>占卜法，在不同的时辰，偶然的衣留现象可能代表有好的或坏的事情发生。如果你遇到这种情况，不妨也来卜易居测测看，测试结果仅供娱乐参考哦。</p>
+<p>所谓衣留，就是我们在行走之时，衣服被周围的物体挂住之意，意思是勾衣留人，故称为衣留。其实我们走路出门，经常出现衣物被刮擦勾住的情况，不必在意。但如果你衣留发生之时，影响了你正常的办事时间和程序，会不会想到这是一个什么样的预兆呢？在古代就提供了一种十二时辰<font color="#ff0000">衣留测吉凶</font>占卜法，在不同的时辰，偶然的衣留现象可能代表有好的或坏的事情发生。如果你遇到这种情况，不妨也来子玉风水测测看，测试结果仅供娱乐参考哦。</p>
    <h3>民俗占卜大全</h3>
 <p>本篇的测吉凶占卜，属于民间流传的十二时辰瞬时兆预测。民间占验认为，在一定的时辰内，身体偶尔产生的某种瞬间反应，可能预示某种兆头和吉凶。</p> 
 <p>古文献表明，早在西汉就出现了占术。《前汉书·艺文志》上载有《嚏耳热杂占》，说明在汉代已经存在时辰耳热测吉凶和打喷嚏测吉凶的占法。</p> 
@@ -84,7 +84,7 @@
 <p>人体占：面热占、喷嚏占、耳鸣占、耳热占、眼跳占、心惊占、肉颤占。</p> 
 <p>动物占：犬吠占、鹊噪占。</p> 
 <p>万物占：衣留占、火逸占、釜鸣占。</p> 
-<p>卜易居的几种民俗占卜，即本于此，测试结果仅供娱乐参考！</p> 
+<p>子玉风水的几种民俗占卜，即本于此，测试结果仅供娱乐参考！</p> 
   </div><!-- /content -->
  </div><!-- /viewbox -->
  
@@ -215,7 +215,7 @@
 <div class="footer">
 	<a href="yiliu.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

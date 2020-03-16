@@ -59,7 +59,7 @@
 
 <p>中国古代有十二进制纪年法，用十二地支表示，即子丑寅卯辰巳午未申酉戌亥，12年一个轮回，如1980年为申年，过12年，1992年又为申年。</p>
 <p><img src="https://i.buyiju.com/img/lanmu/shengxiao.jpg" class="fright p10" width="200" alt="十二生肖查询" title="十二生肖查询">古人把十二地支用十二个动物表示，如子鼠，丑牛等等，该年出生的人，便具有相应的命相，此即十二生肖，肖者相也，又称为十二属相。</p>
-<p>卜易居·生肖查询，可以查询您的属相年份、生肖五行所属及生肖顺序。</p>
+<p>子玉风水·生肖查询，可以查询您的属相年份、生肖五行所属及生肖顺序。</p>
 <p>若出生公历年份和农历年份不同，请以农历年份为准。『<a href="yyl.php" target="_blank">公历农历转换</a>』</p>
 <p><b>十二生肖属相年份排序对照表</b></p>
 <p>
@@ -207,7 +207,7 @@
 <div class="footer">
  <a href="shengxiao.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

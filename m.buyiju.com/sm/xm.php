@@ -1,7 +1,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>姓名算命_姓名测试生辰八字算命_卜易居</title>
+<title>姓名算命_姓名测试生辰八字算命_子玉风水</title>
 <meta name="Description" content="姓名算命,姓名测试生辰八字算命" />
 <meta name="Keywords" content="姓名算命,姓名测试生辰八字算命" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
@@ -183,7 +183,7 @@
 <div class="content">
 
     <p>本测试结合了周易姓名笔划的三才配置吉凶，预测分析名字中对特定人和事物吉凶与变化趋势，测算结果仅供娱乐，切勿迷信！</p>
-    <p>想了解你的姓名与性格命运有着怎样的关系吗？卜易居姓名算命通过您的姓名分析您的性格、意志、事业、家庭、婚姻、子女、社交、精神、财运、健康、老运等诸多与您命运息息相关的内容。</p>
+    <p>想了解你的姓名与性格命运有着怎样的关系吗？子玉风水姓名算命通过您的姓名分析您的性格、意志、事业、家庭、婚姻、子女、社交、精神、财运、健康、老运等诸多与您命运息息相关的内容。</p>
 
   </div><!-- /content -->
  </div>
@@ -318,7 +318,7 @@
 <div class="footer">
 <a href="xm.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

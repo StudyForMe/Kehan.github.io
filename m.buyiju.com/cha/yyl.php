@@ -770,7 +770,7 @@ else
 <div class="footer">
 	<a href="yyl.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

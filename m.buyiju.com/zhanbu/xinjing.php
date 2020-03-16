@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>心惊测吉凶,心跳测吉凶,心慌占卜,卜易居占卜大全</title>
-<meta name="keywords" content="心惊测吉凶,心跳测吉凶,心慌占卜,卜易居占卜大全" />
-<meta name="description" content="心惊测吉凶,心跳测吉凶,心慌占卜,卜易居占卜大全" />
+<title>心惊测吉凶,心跳测吉凶,心慌占卜,子玉风水占卜大全</title>
+<meta name="keywords" content="心惊测吉凶,心跳测吉凶,心慌占卜,子玉风水占卜大全" />
+<meta name="description" content="心惊测吉凶,心跳测吉凶,心慌占卜,子玉风水占卜大全" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <meta name="MobileOptimized" content="320" />
 <meta name="applicable-device" content="mobile">
@@ -84,7 +84,7 @@
 <p>人体占：面热占、喷嚏占、耳鸣占、耳热占、眼跳占、心惊占、肉颤占。</p> 
 <p>动物占：犬吠占、鹊噪占。</p> 
 <p>万物占：衣留占、火逸占、釜鸣占。</p> 
-<p>卜易居的几种民俗占卜，即本于此，测试结果仅供娱乐参考！</p> 
+<p>子玉风水的几种民俗占卜，即本于此，测试结果仅供娱乐参考！</p> 
   </div><!-- /content -->
  </div><!-- /viewbox -->
  
@@ -215,7 +215,7 @@
 <div class="footer">
 	<a href="xinjing.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

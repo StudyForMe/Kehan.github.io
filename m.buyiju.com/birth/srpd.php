@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html charset=utf-8" />
-<title>生日配对_情侣生日配对测试两人关系_卜易居</title>
+<title>生日配对_情侣生日配对测试两人关系_子玉风水</title>
 <meta name="Description" content="生日配对,生日配对爱情测试姻缘,生日配对测试两人关系,生日情侣测试配对指数。" />
 <meta name="Keywords" content="生日配对,生日配对爱情测试姻缘,生日配对测试两人关系,生日情侣测试配对指数" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
@@ -193,7 +193,7 @@
 <div class="footer">
  <a href="srpd.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

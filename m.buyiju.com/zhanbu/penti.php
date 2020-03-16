@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>打喷嚏测吉凶,喷嚏测吉凶,卜易居占卜大全</title>
-<meta name="keywords" content="打喷嚏测吉凶,喷嚏测吉凶,卜易居占卜大全" />
-<meta name="description" content="打喷嚏测吉凶,喷嚏测吉凶,卜易居占卜大全" />
+<title>打喷嚏测吉凶,喷嚏测吉凶,子玉风水占卜大全</title>
+<meta name="keywords" content="打喷嚏测吉凶,喷嚏测吉凶,子玉风水占卜大全" />
+<meta name="description" content="打喷嚏测吉凶,喷嚏测吉凶,子玉风水占卜大全" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <meta name="MobileOptimized" content="320" />
 <meta name="applicable-device" content="mobile">
@@ -76,7 +76,7 @@
   <div class="content">
     
    <h3>打喷嚏测吉凶</h3>
-   <p><img src="https://i.buyiju.com/img/lanmu/penti.jpg" class="fright p10" width="200" alt="打喷嚏测吉凶" title="打喷嚏测吉凶">打喷嚏是一个常见的生理现象，从医学的角度来讲，通常是鼻腔偶然过敏或深入鼻腔的痒感使人体不由自主地喷发气体而得以释放。但在民间，往往认为打喷嚏预示着某种吉凶。古代的一本占卜书《玉匣记》里，就记载了喷嚏测吉凶的占卜方法，即不同的时辰打喷嚏，就表示什么样的预兆和吉凶，卜易居·打喷嚏测吉凶，就是按照此风水秘本的占卜法制定而成。</p>
+   <p><img src="https://i.buyiju.com/img/lanmu/penti.jpg" class="fright p10" width="200" alt="打喷嚏测吉凶" title="打喷嚏测吉凶">打喷嚏是一个常见的生理现象，从医学的角度来讲，通常是鼻腔偶然过敏或深入鼻腔的痒感使人体不由自主地喷发气体而得以释放。但在民间，往往认为打喷嚏预示着某种吉凶。古代的一本占卜书《玉匣记》里，就记载了喷嚏测吉凶的占卜方法，即不同的时辰打喷嚏，就表示什么样的预兆和吉凶，子玉风水·打喷嚏测吉凶，就是按照此风水秘本的占卜法制定而成。</p>
    <h3>喷嚏测吉凶大全</h3>
 <p>凌晨1 点-凌晨3点：有人在牵挂你，希望得到你的帮助。</p> 
 <p>凌晨3 点-凌晨5点：异性邀请你共进美餐，好事啊。</p> 
@@ -233,7 +233,7 @@
 <div class="footer">
 	<a href="penti.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

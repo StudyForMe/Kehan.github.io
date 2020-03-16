@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>袁天罡称骨算命歌,卜易居算命网，称骨算命最准的网站</title>
-<meta name="keywords" content="袁天罡称骨算命歌,卜易居算命网，称骨算命最准的网站" />
-<meta name="description" content="袁天罡称骨算命歌,卜易居算命网，称骨算命最准的网站" />
+<title>袁天罡称骨算命歌,子玉风水，称骨算命最准的网站</title>
+<meta name="keywords" content="袁天罡称骨算命歌,子玉风水，称骨算命最准的网站" />
+<meta name="description" content="袁天罡称骨算命歌,子玉风水，称骨算命最准的网站" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <meta name="MobileOptimized" content="320" />
 <meta name="applicable-device" content="mobile">
@@ -591,7 +591,7 @@
 <div class="footer">
  <a href="cgge.asp#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];

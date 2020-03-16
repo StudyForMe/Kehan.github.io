@@ -186,7 +186,7 @@
 <div class="content">
 
 	<p><img src="https://i.buyiju.com/img/lanmu/smml.jpg" class="fright p10" width="200" alt="命理测算" title="命理测算">命理，就是根据古代文库书籍中流传的学士派论命法来分析你的命运，用词古雅深奥，和民间的通俗算命，有一定的区别。</p>
-	<p>卜易居命理测算主要根据《三命通会》来论命。《三命通会》作者为明朝进士万民英，清朝编修的四库全书将其著作《三命通会》《星学大成》收录，并给予了高度的评价。此书共十二卷，前九卷分列了十天干，每天干以日为主，以月为核心时为辅，定人吉凶，后三卷记载了大量的平古歌赋极具实际操作指导意义。《三命通会》在历史上拥有非常高的地位，是传统命理学习者不可不看的一本书。</p>
+	<p>子玉风水命理测算主要根据《三命通会》来论命。《三命通会》作者为明朝进士万民英，清朝编修的四库全书将其著作《三命通会》《星学大成》收录，并给予了高度的评价。此书共十二卷，前九卷分列了十天干，每天干以日为主，以月为核心时为辅，定人吉凶，后三卷记载了大量的平古歌赋极具实际操作指导意义。《三命通会》在历史上拥有非常高的地位，是传统命理学习者不可不看的一本书。</p>
 
   </div><!-- /content -->
  </div>
@@ -323,7 +323,7 @@
 <div class="footer">
 	<a href="ml.php#top"><div id="btn_top" style="display:none"></div></a>
 <script type="text/javascript">setpFooter();</script>
-<a href="../yuncheng/2019xz/index.html">卜易居算命大全手机版</a><br>
+<a href="../yuncheng/2019xz/index.html">子玉风水手机版</a><br>
 <span style="display:none">
 	<script>
 	var _hmt = _hmt || [];
