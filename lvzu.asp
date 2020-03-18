@@ -73,7 +73,7 @@
  <div class="place">当前位置: <a href="cm/shouji/index.html">首页</a> 〉<a href="chouqian/index.html" >抽签算命</a> 〉<a href="lvzu/index.html">吕祖灵签</a> 〉吕祖灵签解签</div>
  <div class="viewbox">
   <div class="title"><h2>吕祖灵签100签详解</h2></div>
-  <div class="info"><small>2017-11-26 来源：www.buyiju.com 卜易居灵签占卜</small></div>  
+  <div class="info"><small>2017-11-26 来源：www.buyiju.com 子玉风水灵签占卜</small></div>  
   <div class="content">
 <br/><table border="0" align="center" cellspacing="1" cellpadding="5" bgcolor="#bcbcbc" width="95%">
 <tr bgcolor="#ffffff">
@@ -577,7 +577,7 @@
 <!-- /wrapper -->
 <div class="footer">
 	 <div class="powered">    
-   <a href="cm/shouji/index.html">卜易居算命大全</a> <a href="sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
+   <a href="cm/shouji/index.html">子玉风水算命大全</a> <a href="sm/index.html">算命最准的免费网站</a> <a href="http://www.beian.miit.gov.cn"> 陕ICP备09018639号-7</a>
    </div> 
 	<div style="display:none;">   
 	<script>
